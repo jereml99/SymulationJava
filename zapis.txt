@@ -1,0 +1,207 @@
+20
+20
+277
+10
+Lis o id: 4 3 7 3
+Lis o id: 14 1 18 3
+Lis o id: 84 16 16 3
+Wilk o id: 55 9 9 18
+Wilk o id: 65 9 8 9
+Wilk o id: 105 3 18 9
+Wilk o id: 118 3 19 9
+Wilk o id: 132 5 15 12
+Czlowiek o id: 0 2 0 5 0
+CyberOwca o id: 1 13 4 11
+CyberOwca o id: 2 6 6 11
+Antylopa o id: 16 0 6 4
+Antylopa o id: 26 4 7 4
+Owca o id: 43 8 1 4
+Owca o id: 73 10 18 7
+Antylopa o id: 76 10 12 4
+Owca o id: 83 13 3 7
+Antylopa o id: 86 14 17 4
+Zolw o id: 7 1 2 2
+Zolw o id: 27 3 8 2
+Zolw o id: 47 5 11 2
+Zolw o id: 67 13 15 2
+Zolw o id: 87 13 16 2
+BarszczSosnowskiego o id: 12 1 16
+WilczaJagoda o id: 20 2 17
+Guarana o id: 21 0 2
+BarszczSosnowskiego o id: 22 4 4
+Trawa o id: 28 5 13
+Mlecz o id: 29 4 1
+WilczaJagoda o id: 30 3 14
+Guarana o id: 31 3 15
+BarszczSosnowskiego o id: 32 4 2
+Trawa o id: 38 3 16
+Mlecz o id: 39 3 12
+Guarana o id: 41 8 18
+Trawa o id: 48 7 12
+WilczaJagoda o id: 50 7 19
+Guarana o id: 51 8 3
+WilczaJagoda o id: 60 9 17
+Guarana o id: 61 11 6
+BarszczSosnowskiego o id: 62 11 9
+Mlecz o id: 69 10 15
+WilczaJagoda o id: 70 11 12
+Trawa o id: 78 9 19
+Mlecz o id: 79 14 6
+WilczaJagoda o id: 80 12 8
+Mlecz o id: 89 14 14
+WilczaJagoda o id: 90 12 12
+Guarana o id: 91 12 9
+WilczaJagoda o id: 94 2 16
+Mlecz o id: 95 5 1
+WilczaJagoda o id: 98 7 18
+Mlecz o id: 100 10 16
+Guarana o id: 101 10 10
+Mlecz o id: 102 15 6
+Mlecz o id: 103 14 13
+Guarana o id: 104 13 9
+WilczaJagoda o id: 107 1 17
+Guarana o id: 108 2 15
+Trawa o id: 110 7 11
+Mlecz o id: 112 11 15
+Mlecz o id: 113 9 15
+WilczaJagoda o id: 114 11 11
+Guarana o id: 116 12 10
+WilczaJagoda o id: 117 6 18
+Mlecz o id: 119 1 8
+WilczaJagoda o id: 120 2 14
+Mlecz o id: 121 4 12
+WilczaJagoda o id: 122 9 16
+Guarana o id: 123 10 6
+Mlecz o id: 125 14 7
+Mlecz o id: 126 13 6
+Mlecz o id: 127 5 0
+Mlecz o id: 128 15 5
+Mlecz o id: 130 8 15
+Mlecz o id: 133 0 7
+Mlecz o id: 134 14 5
+Mlecz o id: 135 5 2
+Guarana o id: 136 14 9
+WilczaJagoda o id: 137 0 17
+Guarana o id: 138 8 9
+Guarana o id: 139 11 10
+Mlecz o id: 140 4 13
+Mlecz o id: 141 15 7
+Trawa o id: 147 7 13
+WilczaJagoda o id: 148 11 13
+WilczaJagoda o id: 149 5 18
+Mlecz o id: 150 16 6
+Mlecz o id: 151 15 13
+Mlecz o id: 152 11 16
+Mlecz o id: 153 9 14
+Mlecz o id: 154 14 8
+Mlecz o id: 155 4 0
+Mlecz o id: 157 13 5
+Mlecz o id: 158 6 2
+Mlecz o id: 159 4 14
+Mlecz o id: 160 16 7
+Mlecz o id: 161 15 8
+Mlecz o id: 162 6 1
+Guarana o id: 163 8 17
+Mlecz o id: 165 14 12
+Mlecz o id: 167 5 12
+Mlecz o id: 168 4 11
+Mlecz o id: 169 13 7
+Mlecz o id: 170 16 5
+Mlecz o id: 171 5 3
+Guarana o id: 172 15 9
+Mlecz o id: 174 15 12
+Mlecz o id: 175 12 16
+Mlecz o id: 176 13 8
+Mlecz o id: 177 6 3
+Mlecz o id: 178 7 2
+Mlecz o id: 179 5 14
+Mlecz o id: 180 7 1
+Mlecz o id: 181 3 11
+Mlecz o id: 182 3 13
+Trawa o id: 183 8 19
+Mlecz o id: 184 10 17
+Mlecz o id: 185 13 13
+Guarana o id: 186 1 15
+Mlecz o id: 187 0 8
+Guarana o id: 188 8 8
+Trawa o id: 189 7 14
+Mlecz o id: 190 17 6
+Mlecz o id: 191 0 5
+Mlecz o id: 192 16 8
+Mlecz o id: 194 6 12
+Mlecz o id: 196 4 10
+Mlecz o id: 197 12 7
+Mlecz o id: 198 17 5
+Mlecz o id: 199 16 12
+WilczaJagoda o id: 202 3 17
+Guarana o id: 203 0 1
+Trawa o id: 204 6 13
+Mlecz o id: 205 3 1
+Guarana o id: 206 4 15
+Guarana o id: 207 9 3
+Mlecz o id: 208 14 15
+Mlecz o id: 209 15 14
+Guarana o id: 210 14 10
+Guarana o id: 211 7 9
+Trawa o id: 212 8 13
+Mlecz o id: 213 11 17
+Mlecz o id: 214 12 5
+Mlecz o id: 215 6 0
+Guarana o id: 216 16 9
+Mlecz o id: 217 8 2
+Trawa o id: 219 6 14
+Mlecz o id: 220 17 7
+Mlecz o id: 221 0 4
+Mlecz o id: 222 17 8
+Mlecz o id: 223 5 10
+Mlecz o id: 224 12 6
+Mlecz o id: 225 11 7
+Mlecz o id: 226 2 12
+WilczaJagoda o id: 227 6 19
+WilczaJagoda o id: 228 4 17
+Mlecz o id: 229 12 15
+Guarana o id: 230 10 9
+Mlecz o id: 231 1 9
+Mlecz o id: 232 15 4
+Guarana o id: 233 8 10
+WilczaJagoda o id: 234 5 19
+Mlecz o id: 235 8 14
+Mlecz o id: 237 16 4
+Guarana o id: 238 15 10
+Mlecz o id: 239 15 11
+Mlecz o id: 240 6 4
+Mlecz o id: 241 7 3
+Mlecz o id: 242 7 0
+Mlecz o id: 243 2 13
+Mlecz o id: 245 13 12
+Mlecz o id: 246 18 6
+Mlecz o id: 247 3 10
+Mlecz o id: 248 17 4
+Guarana o id: 249 1 1
+Guarana o id: 250 9 4
+Guarana o id: 251 7 8
+Mlecz o id: 252 9 2
+Trawa o id: 253 6 15
+Mlecz o id: 254 1 4
+BarszczSosnowskiego o id: 255 4 3
+Mlecz o id: 256 13 14
+Mlecz o id: 257 11 14
+Guarana o id: 258 10 5
+Mlecz o id: 259 8 16
+Mlecz o id: 260 1 7
+Mlecz o id: 261 2 11
+Mlecz o id: 262 12 13
+Guarana o id: 263 8 7
+Mlecz o id: 264 16 14
+Guarana o id: 265 14 11
+Mlecz o id: 266 18 7
+Mlecz o id: 267 0 3
+Mlecz o id: 268 5 9
+Mlecz o id: 269 10 7
+Mlecz o id: 270 12 14
+Guarana o id: 271 8 11
+Mlecz o id: 272 16 3
+Mlecz o id: 273 13 11
+Mlecz o id: 274 18 5
+Mlecz o id: 275 3 9
+Mlecz o id: 276 1 5
